@@ -1,6 +1,4 @@
-package org.example.eeuppgifter.uppgift1;
-
-import java.util.List;
+package org.example.eeuppgifter.lektion1;
 
 public class main {
     public static void main(String[] args) {
