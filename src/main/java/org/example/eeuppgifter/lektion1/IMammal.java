@@ -1,4 +1,4 @@
-package org.example.eeuppgifter.uppgift1;
+package org.example.eeuppgifter.lektion1;
 
 public non-sealed interface IMammal extends IAnimal {
 }
